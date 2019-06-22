@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidCore_JobScheduler</string>
+    <string name="networkType">Network Type Required:</string>
+    <string name="none">None</string>
+    <string name="any">Any</string>
+    <string name="wifi">Wifi</string>
+    <string name="jobSchedule">Schedule Job</string>
+    <string name="cancelJob">Cancel Jobs</string>
+    <string name="require">Requires:</string>
+    <string name="idle">Device Idl</string>
+    <string name="charging">Device Charging</string>
+    <string name="override">Override Deadline:</string>
+    <string name="notSet">Not Set</string>
+    <string name="seconds">%1$d s</string>
+</resources>
